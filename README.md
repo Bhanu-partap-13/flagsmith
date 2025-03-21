@@ -5,6 +5,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Demo Video
  
 
+https://github.com/user-attachments/assets/a2bf800e-1137-497d-9eaf-9f4f63afa1b5
+
+
+
 ## Getting Started
 
 First, run the development server:
