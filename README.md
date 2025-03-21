@@ -1,4 +1,4 @@
-# flagsmith
+# 🧠Weebopedia🧠
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -6,7 +6,32 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 - https://drive.google.com/drive/folders/1aqIxWzXvKY86imQc-WC7UDDbIAjSbs9Z
 
+## Why Use Our Anime Website?
 
+### Extensive Anime Collection  
+A vast library of anime series and movies, catering to all kinds of fans.
+
+### Regular Updates  
+Ensures that users always have access to the latest anime releases and trending series.
+
+### Personalized Recommendations  
+Uses advanced algorithms to suggest anime based on users' interests.
+
+### Ad-Free Experience  
+Unlike many anime websites, Weebopedia offers a clean and ad-free browsing experience.
+
+### Community-Driven  
+Users can engage with forums, reviews, and discussions to connect with other anime enthusiasts.
+
+---
+
+## Features of Weebopedia
+
+- ✅ **Massive Anime Library** – A well-organized collection of anime series, OVAs.  
+- ✅ **Search & Filter Options** – Easily find anime by genre, release date.  
+- ✅ **Dark Mode Support** – Enjoy watching anime with a comfortable viewing mode.  
+- ✅ **Bookmark Favorite Shows** – Keep track of what you’re watching with a personalized watchlist.  
+- ✅ **Fast Streaming & Downloads** – High-quality streams with minimal buffering.  
 
 
 ## Getting Started
