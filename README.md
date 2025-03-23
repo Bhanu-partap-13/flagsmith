@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo Video
 
-- https://drive.google.com/drive/folders/1aqIxWzXvKY86imQc-WC7UDDbIAjSbs9Z
+- https://www.youtube.com/watch?v=uEyplVZHGZo
 
 ## Why Use Our Anime Website?
 
